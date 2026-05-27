@@ -1,0 +1,3 @@
+Repositorio :  Funciona como una base de datos o una carpeta mágica en la nube (en plataformas como GitHub) que permite hacer un seguimiento detallado de cada modificación realizad
+Commit:  En este punto, Git registra exactamente qué se modificó, quién lo hizo y te obliga a añadir un mensaje descriptivo para que recuerdes qué mejoras o correcciones se aplicaron en esa versión específica
+Push : Es la acción final de subir todos tus commits locales hacia el repositorio remoto que está en la nube. Al ejecutar este comando, tus contribuciones, nuevas funciones o correcciones se integran al proyecto principal
